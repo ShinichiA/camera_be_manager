@@ -1,0 +1,5 @@
+media/
+static/
+*/migrations/
+camera/accounts/migrations/
+.idea

@@ -1,2 +1,2 @@
-# camera_be_manager
+# camera_manager_be
 Backend
